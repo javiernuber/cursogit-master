@@ -11,10 +11,10 @@ footer, header, hgroup, menu, nav, section {display: block}
 	background-repeat: repeat;
 	background-position: right center;}
 h1 {
-	font-size: 36px;
+	font-size: 56px;
 }
 h2 {
-	font-size: 18px;
+	font-size: 48px;
 }
 h3 {
 	font-size: 16px;
@@ -23,13 +23,12 @@ h4 {
 	font-size: 14px;
 }
 body {
-	background-image: url(images/bg.jpg);
 	background-repeat: repeat;
-
+        background-color: red;
 }
 .container {
 	margin: auto;
-	width: 1000px;
+	width: 800px;
 }
 .social {
 	height: 30px;
